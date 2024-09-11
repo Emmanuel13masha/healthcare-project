@@ -105,25 +105,25 @@ body {
     padding: 20px;
 }
 .input-group {
-    width: 300px; /* Set the width of the input group */
-    margin: 20px auto; /* Center the input group */
-    padding: 15px; /* Padding inside the box */
-    border: 1px solid #ccc; /* Light gray border */
-    border-radius: 5px; /* Rounded corners */
-    background-color: #f9f9f9; /* Light background color */
+    width: 300px;
+    margin: 20px auto; 
+    padding: 15px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    background-color: #f9f9f9; 
 }
 
 .label {
-    display: block; /* Make label a block element */
-    margin-bottom: 10px; /* Space below the label */
-    font-weight: bold; /* Bold text for the label */
+    display: block; 
+    margin-bottom: 10px; 
+    font-weight: bold; 
 }
 
 .input-field {
-    width: 100%; /* Full width */
-    padding: 10px; /* Padding inside input field */
-    border: 1px solid #ccc; /* Light gray border */
-    border-radius: 4px; /* Rounded corners */
+    width: 100%; 
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
     font-size: 1em; /* Font size */
 }
 .input-group {
@@ -132,7 +132,7 @@ body {
 .input-group-append .btn-dark {
     border: none;
     padding: 0;
-    background-color: #dc2828; /* or any other color that matches the div box */
+    background-color: #dc2828; 
 }
 .my-container {
     display:flex;
@@ -143,19 +143,19 @@ body {
     border-radius: 10px;
     transform: translate(-30px, 0);
     border: 2px solid #ccc;
-    margin-left: -50px; 
+    margin-left: 40px; 
     width: 900px; 
 }
 
 .item {
-    background-color: #070707; /* Bootstrap Primary Color */
+    background-color: #070707; 
     color: #bcb8b8;
     padding: 15px 25px;
     border-radius: 5px;
     font-size: 1.2em;
     margin: 5px;
-    flex: 1; /* Flex-grow property */
-    text-align: center; /* Centers text */
+    flex: 1; 
+    text-align: center; 
 }
 .btn {
     background-color: #010a01;
@@ -189,16 +189,77 @@ body {
   }
   .container {
     display:flex;
-    justify-content: space-around; /* Distributes items evenly */
-    align-items: center; /* Centers items vertically */
+    justify-content: space-around; 
+    align-items: center;
     background-color:whitesmoke;
     padding: 10px;
     border-radius: 10px;
     transform: translate(-30px, 0);
-    margin-left: -50px; 
+    margin-left: 80px; 
     width: 900px; 
   }
   
   .box1, .box2, .box3, .box4 {
     grid-column: auto;
   }
+  .box5{
+    zoom: 0.2;
+    font-size: xx-large;
+}
+.box6{
+    zoom: 0.2;
+    font-size: xx-large;
+}
+.box7{
+    zoom: 0.2;
+    font-size: xx-large;
+} .box8{
+    zoom: 0.2;
+    font-size: xx-large;
+}
+.box9{
+    zoom: 0.2;
+    font-size: xx-large;
+} .box10{
+    zoom: 0.2;
+    font-size: xx-large;
+}
+.outer-container{
+    display:flex;
+    justify-content: space-around; 
+    align-items: center; 
+    background-color:whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+    transform: translate(-30px, 0);
+    margin-left: 50px; 
+    width: 900p
+}
+.inner-container {
+    border: 1px solid #ccc; /* add a 1px solid border with a light gray color */
+    padding: 30px; /* add some padding to create space between the border and the content */
+    width: 300px; /* set a fixed width for the box */
+    background-color: #888484; /* add a light gray background color */
+    border-radius: 10px; /* add a rounded corner to the box */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* add a subtle shadow to the box */
+    display: inline-block;
+    margin: 5px;
+    zoom: 0.7;
+  }
+  
+  .box11 {
+    padding: 20px; 
+  }
+  .box12{
+    padding: 20px; 
+  }
+  .box13 {
+    padding: 20px; 
+  }
+  .box14 {
+    padding: 20px;
+  }
+  .box15 {
+    padding: 20px;
+  }
+ 
