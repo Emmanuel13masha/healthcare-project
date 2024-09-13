@@ -385,3 +385,9 @@ button:hover{
 .outer-container-6 button:hover {
     background-color: #218838;
 }
+.outer-container-7{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
