@@ -401,3 +401,15 @@ button:hover{
     font-size:1.6rem;
     border:2px solid rgb(32, 197, 10);
 }
+.outer-container-7{
+    margin-left: 50px;
+}
+
+.review-img{
+    width:  50px;
+    padding: 10px;
+    margin: 10px 15px;
+    border-radius: 15px;
+   
+    
+}
