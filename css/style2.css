@@ -1,14 +1,10 @@
-.img_deg
-{
-  float: right;
-  width:  250px;
-  padding: 10px;
-  margin: 15px 15px;
-  border-radius: 25px;
- 
-
-  
-}
+video {
+    float: right;
+    margin: 30px;
+    width: 500px;
+    padding: 10px;
+    border-radius: 25px;
+  }
 
 .pos_cen{
     position: absolute;
@@ -38,9 +34,9 @@
     align-items: center;
 }
 .middle-section{
-display: contents;
-    margin-right: 35px;
-    margin-bottom: 70px;
+    display: contents;
+    margin-top: 20px;
+
 }
 .right-section{
     width:180px;
@@ -412,9 +408,4 @@ button:hover{
     border-radius: 15px;
    
     
-}
-.outer-container-10{
-    margin-top: 30px;
-    margin-left: 350px;
-    margin-bottom: 10px;
 }
